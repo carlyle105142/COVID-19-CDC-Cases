@@ -120,7 +120,8 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 ### Death By County Overview
 
-![image](https://user-images.githubusercontent.com/59629686/210035263-74891cd4-5121-444b-923c-7da826915a58.png)
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/59629686/210048080-01b5faea-fc45-44c3-8414-b55c0f8d022d.png">
+
 
 ### Vulnerability Index (VI)
 
