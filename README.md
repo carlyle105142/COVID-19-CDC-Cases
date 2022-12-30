@@ -94,6 +94,16 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 ![newplot (6)](https://user-images.githubusercontent.com/59629686/210035095-920dcfdf-d4eb-412f-903d-b6b8ff2041f1.png)
 
++ In terms of the number of cases, most of patients were from 18 to 49 years old; least common were patients under 18 years old.
+
++ In terms of the death rate, patients from 50 to 64 years old and over 65 years old had a much higher chance to decease from COVID-19 than the rest of the population.
+
++ Death rates for both "50 to 64" and "above 65" age groups both peaked at the beginning, then decreased month by month.
+
++ From January to Febuary, the average probability of death was 80% for patients over 65 years old and 50% for patients from 50 to 64 years old.
+
++ A possible explanation is that the old population lacked sufficient self-immunity to fight against the virus; they also tended to have underlying conditions, which were made worse by the infection of COVID-19.
+
 ## Ethnicity and Race
 
 ### Proportion of  total cases
