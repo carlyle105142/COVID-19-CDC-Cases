@@ -46,17 +46,43 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 ![newplot (1)](https://user-images.githubusercontent.com/59629686/210034986-54ea069f-ae74-47a1-85b0-50347f3014d6.png)
 
++ The total comfirmed cases increased at a steady rate from January to July. After a 2 month period of decreasing, it started to rise again from September to December.
+
++ The total deaths followed roughly the same pattern, except from Febuary to April, where there was a drastic growth in deaths.
+
++ The decline in number of confirmed cases from July to September could be attributed to hot weather.
+
++ The drastic increase in death rate from Febuary to April might be due to the lack of preparedness against COVID-19.
+
+
+
 ### Cumulative confirmed cases and deaths
 
 ![newplot (2)](https://user-images.githubusercontent.com/59629686/210035001-ea4917a0-cfb1-44cf-bf43-b820f6f80129.png)
+
++ From the first confirmed case to 5 million infections, it took about 7 months from January to July.
+
++ During the next 5 months from July to December, the number of cases grew from 5 million to over 15 million: more than trippled but only with less time.
+
++ Rate of growth in cumulative deaths was more moderate and followed a linear pace. It eventually reached 200k by the time of December 1st, 2020.
 
 ### Monthly rate of change
 
 ![newplot (3)](https://user-images.githubusercontent.com/59629686/210035016-cf3dbec9-180e-4490-9f6d-d4d79c3c6fbf.png)
 
++ Increases in confirmed cases and death both slowed down from April and reached the yearly lowest in May 2020. 
++ From October to November, both confirmed cases and deaths grew at an increasing pace.
+
 ### Monthly Death Rate
 
 ![newplot (4)](https://user-images.githubusercontent.com/59629686/210035039-92968a65-a3d5-461c-b570-175ff7b8f717.png)
+
++ The monthly death rate was extremely high in January 2020, which was approximately 25%.
++ Death rates in the first quarter and the first half of the second quarter were the highest in the whole year of 2020, with an average of around 10%.
++ Started from June, the death rates were much lower, with an average of around 2.5%.
+
+
+
 
 ## Age Group
 
