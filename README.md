@@ -99,11 +99,13 @@ $$ \mathrm{P}(\text{Ethnicity} = \text{Hispanic} \mid \text{Infected}) =
     
 ### By Race
 
-![image](https://user-images.githubusercontent.com/59629686/210035452-8d5a29c9-d083-4d19-9b72-d7d6b4764984.png)
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/59629686/210035859-a953e51f-8b32-416f-985b-b47c92e28b4b.png">
+
+### By Ethnicity
+
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/59629686/210037274-d85fa14c-c006-461e-8285-93aed5b3dc5e.png">
 
 ### By Age
 
-![image](https://user-images.githubusercontent.com/59629686/210035464-000b9cf8-ccef-44e2-b74d-1b9afaeab31e.png)
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/59629686/210035775-71775b49-54f3-4b9e-a7bc-cd4e34482582.png">
 
-
-$$VI = \frac{\mathrm{P}(\text{Ethnicity} = \text{Hispanic} \mid \text{Infected})}{\mathrm{P}(\text{Ethnicity} = \text{Hispanic})} $$
