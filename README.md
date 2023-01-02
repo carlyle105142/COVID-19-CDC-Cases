@@ -21,7 +21,7 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 | res_county   | County of residence        |
 | county_fips_code  | County FIPS code        |
 | age_group   | Age group (0 - 17 years; 18 - 49 years; 50 - 64 years; 65 + years)        |
-| sex   | Sex (Female, Male, Others        |
+| sex   | Sex (Female, Male, Others)       |
 | race   | Race (American Indian/Alaska Native; Asian; Black; Multiple/Other; <br> Native Hawaiian/Other Pacific Islander; White)        |
 | ethnicity   | Ethnicity (Hispanic; Non-Hispanic)        |
 | symptom_status   | What is the symptom status of this person? (Asymptomatic, Symptomatic)         |
@@ -104,9 +104,17 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 + A possible explanation is that the old population lacked sufficient self-immunity to fight against the virus; they also tended to have underlying conditions, which were made worse by the infection of COVID-19.
 
+## Hospitalization
+
+### Monthly Death Rate
+
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/59629686/210052137-2d376a27-e751-436e-97f7-0a3c33bcead5.png">
+
++ 
+
 ## Ethnicity and Race
 
-### Proportion of  total cases
+### Proportion of total cases
 
 ![newplot (7)](https://user-images.githubusercontent.com/59629686/210035130-393043a6-6c0c-496a-a273-20b09c6dc50d.png)
 
@@ -114,14 +122,20 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 ## Case Study: California
 
-### Data Cleaning
-
-+ Let's first look at the death data specifically for counties in California in 2020. 
 
 ### Death By County Overview
 
-<img width="672" alt="image" src="https://user-images.githubusercontent.com/59629686/210048080-01b5faea-fc45-44c3-8414-b55c0f8d022d.png">
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/59629686/210051716-dfd971f0-a06c-48ac-828b-28f663e37860.png">
 
+<img width="587" alt="image" src="https://user-images.githubusercontent.com/59629686/210051364-a1c4c17b-f404-483e-bd33-a9d09285b40e.png">
+
++ The heatmap was plotted based on the per month number of deaths in each county in California. Furthermore, log transformation was applied. The reason is that Los Angeles county had much higher number of deaths, which overshadows the rest of other counties in the first heatmap.
+
++ Los Angeles county was the most severely attacked place by COVID-19 in California, without a doubt.
+
++ Based on the log-deaths, Riverside, San Diego, Orange and San Bernardino also had disproportionately higher number of deaths than the rest of California.
+
++ Los Angeles
 
 ### Vulnerability Index (VI)
 
@@ -138,11 +152,26 @@ $$ \mathrm{P}(\text{Ethnicity} = \text{Hispanic} \mid \text{Infected}) =
 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/59629686/210035859-a953e51f-8b32-416f-985b-b47c92e28b4b.png">
 
+
++ There may be missing data from "American Indian/Alaska Native" and "Native Hawaiian/Other Pacific Islander" because no deaths was reported from both groups during 2020 in California. Their corresponding vulnerability index were thus all 0. Deaths data were also missing for the first two months in California.
+
++ Among the rest 3 race groups, black people seemed the most vulnerable to COVID-19, especially from March to May; Asian people were the least vulnerable group in terms of deaths. 
+
 ### By Ethnicity
 
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/59629686/210037274-d85fa14c-c006-461e-8285-93aed5b3dc5e.png">
 
++ It is pretty clear that Hispanic people had been more likely to die from COVID-19 than the Non-Hispanic group.
+
++ For Hispanic people, their worst months during 2020 were July and September, which were counterintuitively the months associated with the lowest deaths in California in 2020.
+
 ### By Age
 
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/59629686/210035775-71775b49-54f3-4b9e-a7bc-cd4e34482582.png">
+
++ No death was reported for population under 18 years old; this may be a result of incomplete/bad data collection.
+
++ For population below 64 years old, their death counts were not aligned with their large base popuation percentage as reflected by the low vulnerability index.
+
++ The population over 64 years old were very severely attacked by the pandemic as their death rates were on average 6 times as high as their base popualtion percentage.
 
