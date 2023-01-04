@@ -1,4 +1,4 @@
-# Surprise! Those Factors Increased Likelihood of Death during COVID-19 Pandemic in 2020
+# Surprise! Those Factors Increased the Likelihood of Death during the COVID-19 Pandemic!
  
  
 
