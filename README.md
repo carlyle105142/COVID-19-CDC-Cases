@@ -1,4 +1,4 @@
-# Surprise! Those Factors Increased Likelihood of Death during 2020 Pandemic
+# Surprise! Those Factors Increased Likelihood of Death during COVID-19 Pandemic in 2020
  
 
 Data sets can be downloaded at: https://drive.google.com/drive/folders/1dYFUJ6TFUC85d9nFCaxeYseW6OriNox1?usp=share_link
