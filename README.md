@@ -3,7 +3,7 @@
 
 Data sets can be downloaded at: https://drive.google.com/drive/folders/1dYFUJ6TFUC85d9nFCaxeYseW6OriNox1?usp=share_link
 
-A Tableau dashboard file ".twb" is also attached. A preview pictures of the dashboar are provided below:
+A Tableau dashboard file ".twb" is also attached. Various visualizations for Sex, Hospitalization, ICU, Symptom Status, etc. are provided in those dashboards. A pictures of the main dashboard is provided below to give you some idea what those dashboards look like:
 
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/59629686/210470221-f6651ae8-2e1a-484c-8238-4798c69ef791.png">
 
