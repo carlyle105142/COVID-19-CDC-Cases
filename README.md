@@ -157,7 +157,8 @@ $$ \mathrm{P}(\text{Ethnicity} = \text{Hispanic} \mid \text{Infected}) =
 
 + There may be missing data from "American Indian/Alaska Native" and "Native Hawaiian/Other Pacific Islander" because no deaths was reported from both groups during 2020 in California. Their corresponding vulnerability index were thus all 0. Deaths data were also missing for the first two months in California.
 
-+ Among the rest 3 race groups, black people seemed the most vulnerable to COVID-19, especially from March to May; Asian people were the least vulnerable group in terms of deaths. 
++ Among the rest 3 race groups, black people seemed the most vulnerable to COVID-19, especially from March to May; Asian people were the least vulnerable group in terms of deaths.  
++ The black population initially suffered from disproportionately more deaths, but much less latter on (and even no death reported during September and October). This indicated that deaths for black patients may had been severely underreported.
 
 ### By Ethnicity
 
