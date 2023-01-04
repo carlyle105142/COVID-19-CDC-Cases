@@ -1,13 +1,16 @@
 # Surprise! Those Factors Increased Likelihood of Death during COVID-19 Pandemic in 2020
  
+ 
 
-Data sets can be downloaded at: https://drive.google.com/drive/folders/1dYFUJ6TFUC85d9nFCaxeYseW6OriNox1?usp=share_link
+## Before You Read...
 
-A Tableau dashboard file ".twb" is also attached. Various visualizations for Sex, Hospitalization, ICU, Symptom Status, etc. are provided in those dashboards. A pictures of the main dashboard is provided below. Notice that the dashboards are **interactive**, meaning you can click and drag different categories to explore details of your desire!
+The data sets used for this analytical project can be downloaded at: https://drive.google.com/drive/folders/1dYFUJ6TFUC85d9nFCaxeYseW6OriNox1?usp=share_link
+
+In addition to the jupyter notebook, a Tableau dashboard file ".twb" is also attached. It covered some additional visualizations for Sex, Hospitalization, ICU, Symptom Status, etc. that were not fully covered in detail in the jupyter notebook. A pictures of the main dashboard is provided below. Notice that the dashboards are **interactive**, meaning you can click and drag different categories to explore details of your desire!
 
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/59629686/210470221-f6651ae8-2e1a-484c-8238-4798c69ef791.png">
 
-## Interesting Findings:
+## Now, Some Interesting Findings:
 + **The average death rate at beginning of 2020 was 25% on average; and 80% on average for people older than 65 years.**
 + **Black, Hispanic/Latino populations and those aged over 65 years old were exceptionaly more vulnerable than the rest in California.**
 + **Females had higher death rate than males on average. (Check Tableau Workbook)**
