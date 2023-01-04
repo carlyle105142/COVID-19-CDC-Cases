@@ -9,7 +9,8 @@ A Tableau dashboard file ".twb" is also attached. Various visualizations for Sex
 
 ## Interesting Findings:
 
-**+ Black, Hispanic/Latino populations and those aged over 65 years old were exceptionaly more vulnerable than the rest in California.**
++ **Black, Hispanic/Latino populations and those aged over 65 years old were exceptionaly more vulnerable than the rest in California.**
++ **Cases data for minority racial subgroups, including American Indian/Alaska Native, Native Hawaiian and Other Pacific Islanders, were largely underreported.**
 
 ## Introduction
 
