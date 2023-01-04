@@ -7,6 +7,10 @@ A Tableau dashboard file ".twb" is also attached. Various visualizations for Sex
 
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/59629686/210470221-f6651ae8-2e1a-484c-8238-4798c69ef791.png">
 
+## Interesting Findings:
+
+** + Black, Hispanic/Latino populations and those aged over 65 years old were exceptionaly more vulnerable than the rest in California. **
+
 ## Introduction
 
 Started at early 2020, the global outbreak of COVID-19 has since changed every single aspect of our lives. Remarked by its rapid spread and intractable nature, over 6 millions of people worldwide had died from the disease. Among all countries, the United States is one of the most severely impacted nation in terms of total cases and deaths. With its highly diverse population, people at different age, with different ethnic and gender identities, and from different states all had suffered differently from the pandemic due to various reasons. Although a single trend line may efficiently capture the overall severity of the pandemic, demographic variability can often be overlooked. In this project, my goal is to show my audience the impact of COVID-19 from multiple dimensions to offer a fuller view of how different groups of people may have suffered differently from the pandemic. Specifically, I will focus on the year of 2020 only. I will make use of various types of plots and visualization tools to highlight my findings and help you to gain a more in-depth understanding on this topic.
@@ -158,6 +162,7 @@ $$ \mathrm{P}(\text{Ethnicity} = \text{Hispanic} \mid \text{Infected}) =
 + There may be missing data from "American Indian/Alaska Native" and "Native Hawaiian/Other Pacific Islander" because no deaths was reported from both groups during 2020 in California. Their corresponding vulnerability index were thus all 0. Deaths data were also missing for the first two months in California.
 
 + Among the rest 3 race groups, black people seemed the most vulnerable to COVID-19, especially from March to May; Asian people were the least vulnerable group in terms of deaths.  
+
 + The black population initially suffered from disproportionately more deaths, but much less latter on (and even no death reported during September and October). This indicated that deaths for black patients may had been severely underreported.
 
 ### By Ethnicity
