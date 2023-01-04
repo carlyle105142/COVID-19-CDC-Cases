@@ -8,9 +8,13 @@ A Tableau dashboard file ".twb" is also attached. Various visualizations for Sex
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/59629686/210470221-f6651ae8-2e1a-484c-8238-4798c69ef791.png">
 
 ## Interesting Findings:
-
++ **The average death rate at beginning of 2020 was 25% on average; and 80% on average for people older than 65 years.**
 + **Black, Hispanic/Latino populations and those aged over 65 years old were exceptionaly more vulnerable than the rest in California.**
-+ **Cases data for minority racial subgroups, including American Indian/Alaska Native, Native Hawaiian and Other Pacific Islanders, were largely underreported.**
++ **Females had higher death rate than males on average. (Check Tableau Workbook)**
++ **Cases and deaths for some minority groups, including Black people, American Indian, Alaska Native, Native Hawaiian and Other Pacific Islanders, were largely underreported.**
++ **Hospitalization increased the risk of death by over 30 times on average.**
++ **Los Angeles county was the most severely attacked county in California, followed by Riverside, San Diego, Orange and San Bernadino county.**
+
 
 ## Introduction
 
@@ -117,7 +121,6 @@ Started at early 2020, the global outbreak of COVID-19 has since changed every s
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/59629686/210052137-2d376a27-e751-436e-97f7-0a3c33bcead5.png">
 
-+ 
 
 ## Ethnicity and Race
 
